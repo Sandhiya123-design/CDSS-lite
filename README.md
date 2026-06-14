@@ -3,8 +3,6 @@ CDSS-Lite: Clinical Decision Support System
 
 CDSS-Lite is a Streamlit-based Clinical Decision Support System designed to assist in basic patient risk assessment using vital signs, symptoms, and comorbidities. It provides a simple, rule-based risk classification to support medical decision-making.
 
-⚠️ Disclaimer: This tool is for educational purposes only and is NOT a medical diagnostic system.
-
 🚀 Live Demo
 
 🔗 https://cdss-lite-j6fs6xqfs7jiix7shuptkm.streamlit.app/
