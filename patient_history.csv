@@ -1,0 +1,16 @@
+Patient Name,Age,Height,Weight,Gender,BloodGroup,Temperature,SpO2,HeartRate,Duration,BloodPressure,Allergies,Cold,Cough,Fever,Headache,Fatigue,ShortnessOfBreath,Vomiting,Wheezing,ChestPain,SoreThroat,AbdominalPain,Diarrhea,Diabetes,Hypertension,HeartDisease,ChronicRespiratory,ChronicKidney,NeuroDisorder,Alcohol,Smoking,Cancer,Immuno,Name,RiskScore,RiskLevel,Condition
+,30,170,70,Male,A+,36.5,98,75,1,120/80,,Moderate,,,High,,,High,,,Moderate,,,False,True,False,False,False,False,False,False,False,,,11,Moderate,Consult Doctor Immediately
+irfan,30,170,70,Male,A+,36.5,98,75,1,120/80,,,,Moderate,,,,,,,Moderate,,,True,True,False,False,False,False,True,False,False,0.0,irfan,6,Low,Home Care & Observation
+sun,30,170,70,Male,A+,36.5,98,75,1,120/80,,Mild,Mild,,,,,,,,,,,False,False,False,False,False,False,False,False,False,0.0,sun,2,Low,Home Care & Observation
+kiran,30,170,70,Male,A+,36.5,98,75,1,120/80,,,Moderate,Mild,,,,,,,,,,False,False,False,False,False,False,False,True,False,0.0,kiran,4,Low,Home Care & Observation
+Gayathri,50,160,70,Female,A+,40.0,98,75,3,120/80,milk allergies,High,High,High,,,,,,,,,,True,True,False,False,False,False,False,False,False,0.0,Gayathri,11,Moderate,Consult Doctor Immediately
+tamil,19,170,60,Female,A+,36.5,77,75,4,120/80,,High,High,,High,,,,Mild,Mild,,,,False,False,False,False,False,False,False,False,False,0.0,tamil,13,High,Immediate Hospitalization Required
+krishna,50,170,74,Male,A+,36.5,98,75,3,120/80,,Moderate,High,High,,,Mild,,,,,,,True,True,False,False,False,False,False,False,False,0.0,krishna,10,Moderate,Consult Doctor Immediately
+rasida,38,170,70,Female,A+,40.0,98,80,6,120/80,,High,,,High,High,,,High,,,,,True,True,False,False,False,False,False,False,True,0.0,rasida,15,High,Immediate Hospitalization Required
+kiran,30,170,70,Male,A+,36.5,98,75,4,120/80,,High,High,Moderate,Moderate,,,,,,,,,False,True,False,False,False,False,False,False,False,0.0,kiran,11,Moderate,Consult Doctor Immediately
+ganesh,30,170,70,Male,A+,36.5,98,75,1,120/80,,Moderate,High,,,,,,,,,,,True,True,False,True,False,False,False,False,False,0.0,ganesh,6,Low,Home Care & Observation
+ganesh,30,170,70,Male,A+,36.5,98,75,1,120/80,none,Moderate,High,,,,,,,,,,,True,True,False,True,False,False,False,False,False,0.0,ganesh,6,Low,Home Care & Observation
+suresh,30,170,70,Male,A+,36.5,98,75,2,120/80,,,,,High,High,Mild,,,,,,,False,False,False,False,False,False,False,False,False,1.0,suresh,8,Moderate,Consult Doctor Immediately
+suresh,30,170,70,Male,A+,36.5,98,75,2,120/80,none,,,,High,High,Mild,,,,,,,False,False,False,False,False,False,False,False,False,1.0,suresh,8,Moderate,Consult Doctor Immediately
+krish,30,170,70,Male,A+,36.5,98,75,1,120/80,,,,,,,,High,,High,,,,False,False,True,False,False,False,False,False,False,0.0,krish,7,Low,Home Care & Observation
+ajay,30,170,70,Male,A+,36.5,98,75,1,120/80,,None,High,None,High,None,None,None,None,None,None,None,None,True,True,False,False,False,False,False,False,False,0.0,ajay,7,Low,Home Care & Observation
